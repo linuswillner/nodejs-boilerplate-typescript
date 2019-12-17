@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-boilerplate-typescript",
+  "version": "1.0.0",
+  "description": "A Node.js project boilerplate with TypeScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuswillner/nodejs-boilerplate-typescript.git"
+  },
+  "author": "Linus Willner <hello@linuswillner.me> (https://linuswillner.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linuswillner/nodejs-boilerplate-typescript/issues"
+  },
+  "homepage": "https://github.com/linuswillner/nodejs-boilerplate-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.20",
+    "@typescript-eslint/eslint-plugin": "^2.12.0",
+    "eslint": "^6.7.2",
+    "eslint-config-standard-with-typescript": "^11.0.1",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "typescript": "^3.7.3"
+  }
+}
