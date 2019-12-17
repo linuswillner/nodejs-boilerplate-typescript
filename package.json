@@ -17,6 +17,7 @@
     "url": "https://github.com/linuswillner/nodejs-boilerplate-typescript/issues"
   },
   "homepage": "https://github.com/linuswillner/nodejs-boilerplate-typescript#readme",
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^12.12.20",
     "@typescript-eslint/eslint-plugin": "^2.12.0",
